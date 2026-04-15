@@ -1,3 +1,15 @@
+---
+title: AI Document Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # AI Document Chatbot — RAG with Claude
 
 > Upload your documents. Ask questions. Get accurate, cited answers powered by Claude AI and vector search.
